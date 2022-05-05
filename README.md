@@ -12,7 +12,7 @@ To install the system on your machine, just download the file [Setup.exe](https:
 3. A new column with the selected language will appear at the end of the translation list.
 ![image](https://user-images.githubusercontent.com/12053190/166847377-ef3079d9-1d01-49cf-ba3a-4b81dd8e751a.png)
 
-5. Start the translation by typing the translated values against the Default column. You may not complete the process right away. Then, save the data whenever you want by clicking the corresponding button.
+5. Start a translation by typing as entries next to the Default column. Note: If you can do the work in parts, saving the data to continue later.
 ![image](https://user-images.githubusercontent.com/12053190/166847562-0a5c768e-c722-4b20-8989-30bc9538ae9b.png)
 
 7. After the translation is complete, export your work. A folder with the translated files will open. 
