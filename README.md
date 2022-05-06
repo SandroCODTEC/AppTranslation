@@ -2,7 +2,7 @@
 Json file editing tools for internationalization library (i18n) and translation systems.
 
 ## Installation
-To install the system on your machine, just download the file [Setup.exe](https://github.com/SandroCODTEC/AppTranslation/releases/download/untagged-3209f5d0a74374695508/Setup.exe) and run it.  
+To install the system on your machine, just download the file [Setup.exe](https://github.com/SandroCODTEC/AppTranslation/releases/download/1.0.0/Setup.exe) and run it.  
 
 ## How can you use the App Translation?
 
